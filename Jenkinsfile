@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') { 
             steps {
-                echo "git pull"
+                echo "git pull2"
             }
         }
     }
